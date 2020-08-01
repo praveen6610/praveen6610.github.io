@@ -1,5 +1,5 @@
 ﻿## Welcome to GitHub Pages
-![coding1](./images/coding1.png)
+![coding1](./images/coding6.png)
 
 You can use the [editor on GitHub](https://github.com/praveen6610/praveen6610.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
