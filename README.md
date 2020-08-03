@@ -1,4 +1,4 @@
-### Hi there, I'm Praveen - aka [praveen6610][website] 👋
+﻿### Hi there, I'm Praveen - aka [praveen6610][website] 👋
 
 ## I'm a full Stack Developer and passionate learner!
 - 🔭 I’m currently working on [kindly refer github link][github]!
@@ -21,7 +21,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Java" width="26px" src="./images/java.png">
 <img align="left" alt="Spring" width="26px" src="./images/spring.png">
-<img align="left" alt="C#" width="26px" src="./images/c#.png">
+<img align="left" alt="C" width="26px" src="./images/csharp.png">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
