@@ -1,4 +1,4 @@
-﻿### Hi there, I'm Praveen - aka [praveen6610][website] 👋
+﻿### Hi there, I'm Praveen -  aka [praveen6610][website] 👋
 
 ## I'm a full Stack Developer and passionate learner!
 - 🔭 I’m currently working on [kindly refer github link][github]!
