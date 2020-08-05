@@ -2,7 +2,7 @@
 
 ## I'm a full Stack Developer and passionate learner!
 - 🔭 I’m currently working on [kindly refer github link][github]!
-- 🌱 I’m currently learning many things
+- 🌱 I’m always learning new technologies
 - 🥅 Goals: To learn and contribute to Open Source projects
 
 ### Connect with me:
@@ -40,6 +40,8 @@
 
 
 <img align="left" alt="Praveen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveen6610&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Praveen's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen6610&hide=ruby&show_icons=true&hide_border=true" />
 
 [website]: https://praveen6610.github.io
 [twitter]: https://twitter.com/praveen_6610
