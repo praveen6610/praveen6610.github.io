@@ -2,7 +2,7 @@
 
 ## I'm a full Stack Developer and passionate learner!
 - 🔭 I’m currently working on [kindly refer github link][github]!
-- 🌱 I’m always learning new technologies
+- 🌱 Currently updating myself with new technologies
 - 🥅 Goals: To learn and contribute to Open Source projects
 
 ### Connect with me:
